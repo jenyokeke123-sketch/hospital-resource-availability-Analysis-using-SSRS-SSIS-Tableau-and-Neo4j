@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vaishnav\\Software\\SSIS Work - Nov25\\SSIS project\\SSRS-report-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0F8306-1571-BAF0-E4C4-EBB73E1AE250}|SSRS-report-2.rptproj|D:\\Vaishnav\\Software\\SSIS Work - Nov25\\SSIS project\\SSRS-report-2\\daily-bed-data.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{1C0F8306-1571-BAF0-E4C4-EBB73E1AE250}|SSRS-report-2.rptproj|solutionrelative:daily-bed-data.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "daily-bed-data.rdl [Design]",
+              "DocumentMoniker": "D:\\Vaishnav\\Software\\SSIS Work - Nov25\\SSIS project\\SSRS-report-2\\daily-bed-data.rdl",
+              "RelativeDocumentMoniker": "daily-bed-data.rdl",
+              "ToolTip": "D:\\Vaishnav\\Software\\SSIS Work - Nov25\\SSIS project\\SSRS-report-2\\daily-bed-data.rdl [Design]",
+              "RelativeToolTip": "daily-bed-data.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T05:03:24.138Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
