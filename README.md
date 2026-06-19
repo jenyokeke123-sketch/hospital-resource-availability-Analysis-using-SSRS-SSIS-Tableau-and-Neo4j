@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="Images/Banner.png" width="100%">
 </p>
