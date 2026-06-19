@@ -299,44 +299,55 @@ The dashboard combines:
 ## Repository Structure
 
 ```text
-Hospital-Resource-Availability-Analysis
+SSIS_Fullcode
 │
 ├── README.md
 ├── LICENSE
+├── New_York_State_Statewide_Hospital_Bed_Data.xls
 │
-├── Dataset/
-│   └── Hospital_Bed_Capacity.csv
-│
-├── SQL/
-│   ├── TableCreation.sql
-│   ├── SSRS_Queries.sql
-│   └── Neo4j_CQL.txt
-│
-├── SSIS/
-│   └── HospitalCapacityETL.dtsx
-│
-├── Reports/
-│   └── SSRS_Reports
-│
-├── Tableau/
-│   └── Dashboard.twb
+├── CQL-SQL/
+│   ├── cql-1.png
+│   ├── cql-2.png
+│   ├── sql-1.png
+│   └── sql-2.png
 │
 ├── Images/
+│   ├── Architecture-diagram.png
 │   ├── Banner.png
-│   ├── Star_Schema.png
-│   ├── Dimension1.png
-│   ├── Dimension2.png
-│   ├── Dimension3.png
-│   ├── FactTable.png
-│   ├── SSRS_Report1.png
-│   ├── SSRS_Report2.png
-│   ├── Tableau_Region_Beds.png
-│   ├── Tableau_Date_Beds.png
-│   ├── Tableau_Dashboard.png
-│   └── Neo4j_Model.png
+│   ├── DF1.png
+│   ├── DF2.png
+│   ├── DF3.png
+│   ├── DF4.png
+│   ├── report1.png
+│   ├── report2.png
+│   └── tab3.png
 │
-└── Report/
-    └── Technical_Report.pdf
+├── Report/
+│   └── report.docx
+│
+├── SSIS file/
+│   └── BedcapacityWork/
+│
+├── SSRS file/
+│   ├── SSRS-report-1/
+│   ├── SSRS-report-2/
+│   ├── ssis-ss0.png
+│   ├── ssis-ss1.png
+│   ├── ssis-ss2.png
+│   └── ssis-ss3.png
+│
+├── SSRS report - PDF,PNG/
+│   ├── report-1.pdf
+│   ├── report1.png
+│   ├── report-2.pdf
+│   └── report2.png
+│
+└── tableau/
+    ├── dashboard.png
+    ├── tableau-visual.twb
+    ├── tableau-visual-dashboard.twbx
+    ├── visual-1.png
+    └── visual-2.png
 ```
 
 ---
