@@ -49,6 +49,8 @@ The objective is to analyze hospital bed availability, ICU capacity, occupancy r
 
 New York Statewide Hospital Bed Capacity Dataset
 
+https://health.data.ny.gov/Health/New-York-State-Statewide-Hospital-Bed-Capacity
+
 The dataset contains:
 
 * Hospital facility information
