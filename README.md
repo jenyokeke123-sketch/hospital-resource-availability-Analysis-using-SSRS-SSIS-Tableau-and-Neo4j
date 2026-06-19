@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="Images/Banner.png" width="100%">
 </p>
@@ -372,7 +373,7 @@ Hospital-Resource-Availability-Analysis
 
 ## Author
 
-Sanal K
+jenyokeke
 
 MSc Data Analytics / Business Intelligence Project
 
@@ -383,3 +384,4 @@ Hospital Resource Availability Analysis using SSIS, SSRS, Tableau, and Neo4j
 ## License
 
 This project is licensed under the MIT License.
+
